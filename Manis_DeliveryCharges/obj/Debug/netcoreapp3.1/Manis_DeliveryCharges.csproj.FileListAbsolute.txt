@@ -1,0 +1,13 @@
+C:\Users\ethan\source\repos\Manis_DeliveryCharges\bin\Debug\netcoreapp3.1\Manis_DeliveryCharges.exe
+C:\Users\ethan\source\repos\Manis_DeliveryCharges\bin\Debug\netcoreapp3.1\Manis_DeliveryCharges.deps.json
+C:\Users\ethan\source\repos\Manis_DeliveryCharges\bin\Debug\netcoreapp3.1\Manis_DeliveryCharges.runtimeconfig.json
+C:\Users\ethan\source\repos\Manis_DeliveryCharges\bin\Debug\netcoreapp3.1\Manis_DeliveryCharges.runtimeconfig.dev.json
+C:\Users\ethan\source\repos\Manis_DeliveryCharges\bin\Debug\netcoreapp3.1\Manis_DeliveryCharges.dll
+C:\Users\ethan\source\repos\Manis_DeliveryCharges\bin\Debug\netcoreapp3.1\Manis_DeliveryCharges.pdb
+C:\Users\ethan\source\repos\Manis_DeliveryCharges\obj\Debug\netcoreapp3.1\Manis_DeliveryCharges.AssemblyInfoInputs.cache
+C:\Users\ethan\source\repos\Manis_DeliveryCharges\obj\Debug\netcoreapp3.1\Manis_DeliveryCharges.AssemblyInfo.cs
+C:\Users\ethan\source\repos\Manis_DeliveryCharges\obj\Debug\netcoreapp3.1\Manis_DeliveryCharges.csproj.CoreCompileInputs.cache
+C:\Users\ethan\source\repos\Manis_DeliveryCharges\obj\Debug\netcoreapp3.1\Manis_DeliveryCharges.dll
+C:\Users\ethan\source\repos\Manis_DeliveryCharges\obj\Debug\netcoreapp3.1\Manis_DeliveryCharges.pdb
+C:\Users\ethan\source\repos\Manis_DeliveryCharges\obj\Debug\netcoreapp3.1\Manis_DeliveryCharges.genruntimeconfig.cache
+C:\Users\ethan\source\repos\Manis_DeliveryCharges\obj\Debug\netcoreapp3.1\Manis_DeliveryCharges.GeneratedMSBuildEditorConfig.editorconfig

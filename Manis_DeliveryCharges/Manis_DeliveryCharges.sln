@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Manis_DeliveryCharges", "Manis_DeliveryCharges.csproj", "{796BFFF8-90A1-48B1-96AC-E05F7CB0BBA3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{796BFFF8-90A1-48B1-96AC-E05F7CB0BBA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{796BFFF8-90A1-48B1-96AC-E05F7CB0BBA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{796BFFF8-90A1-48B1-96AC-E05F7CB0BBA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{796BFFF8-90A1-48B1-96AC-E05F7CB0BBA3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E43C6E2D-B925-47ED-8DB4-998F5D576B64}
+	EndGlobalSection
+EndGlobal
